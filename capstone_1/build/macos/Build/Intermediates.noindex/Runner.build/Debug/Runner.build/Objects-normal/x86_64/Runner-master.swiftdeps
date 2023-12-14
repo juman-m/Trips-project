@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "6ed394936c9b0e17a6063d7c291be8ef60172de4aa0c450f096c24fc3ad48a3c"
+build_start_time: [1702540931, 887832164]
+build_end_time: [1702540946, 401209831]
+inputs:
+  "/Users/juman/Desktop/Flutter Projects/Capstone1/capstone_1/macos/Flutter/GeneratedPluginRegistrant.swift": [1702540864, 127758979]
+  "/Users/juman/Desktop/Flutter Projects/Capstone1/capstone_1/macos/Runner/AppDelegate.swift": [1701798827, 410250663]
+  "/Users/juman/Desktop/Flutter Projects/Capstone1/capstone_1/macos/Runner/MainFlutterWindow.swift": [1701798827, 413887023]

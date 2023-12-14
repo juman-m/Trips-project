@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "c9b72b46b93d7fc2c18ea4a8801a005fdac70f1b5743dc53a95b2f4eda870470"
+build_start_time: [1702540888, 39301872]
+build_end_time: [1702540888, 140421867]
+inputs:
+  "/Users/juman/.pub-cache/hosted/pub.dev/sign_in_with_apple-5.0.0/macos/Classes/SignInWithAppleAvailablePlugin.swift": !private [1699789108, 495242595]
+  "/Users/juman/.pub-cache/hosted/pub.dev/sign_in_with_apple-5.0.0/macos/Classes/SignInWithAppleError.swift": !private [1699789108, 493289232]
+  "/Users/juman/.pub-cache/hosted/pub.dev/sign_in_with_apple-5.0.0/macos/Classes/SignInWithApplePlugin.swift": !private [1699789108, 497966289]
+  "/Users/juman/.pub-cache/hosted/pub.dev/sign_in_with_apple-5.0.0/macos/Classes/SignInWithAppleUnavailablePlugin.swift": !private [1699789108, 491076946]

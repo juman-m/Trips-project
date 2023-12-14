@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/juman/Desktop/Flutter Projects/Capstone1/capstone_1/build/macos/Build/Products/Debug/file_selector_macos/file_selector_macos.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/juman/Desktop/Flutter Projects/Capstone1/capstone_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/unextended-module.modulemap",
+    }]
+  }]
+}

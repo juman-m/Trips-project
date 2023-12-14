@@ -1,0 +1,1 @@
+ /Users/juman/Desktop/Flutter\ Projects/Capstone1/capstone_1/.dart_tool/flutter_build/d67489f79934c55c41998d46cdc10e5e/native_assets.yaml: 

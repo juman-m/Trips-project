@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/juman/Desktop/Flutter Projects/Capstone1/capstone_1/build/macos/Build/Products/Debug/sign_in_with_apple/sign_in_with_apple.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/juman/Desktop/Flutter Projects/Capstone1/capstone_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/sign_in_with_apple.build/unextended-module.modulemap",
+    }]
+  }]
+}

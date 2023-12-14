@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "19e2c97edba08b145847e5a1cb2584a9d8920ab6cea5ee6316d4d7dc12dd81a2"
+build_start_time: [1702540888, 39299964]
+build_end_time: [1702540906, 903857946]
+inputs:
+  "/Users/juman/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+3/macos/Classes/FileSelectorPlugin.swift": [1698576479, 839606285]
+  "/Users/juman/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+3/macos/Classes/messages.g.swift": [1698576479, 850579500]
